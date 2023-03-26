@@ -1,0 +1,32 @@
+
+body {
+    background-color: #483c67;
+}
+
+#foto {
+    text-align: center;
+}
+.name {
+padding-bottom: 8vh;
+font-size: 3.5rem;
+font-weight: bold;
+color: var(--color-lightWhite);
+text-align: center;
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: "Roboto Mono", monospace;
+}
+#sub-name {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+#light-green{
+    color: #5af78e
+}
