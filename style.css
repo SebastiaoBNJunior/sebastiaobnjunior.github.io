@@ -5,6 +5,10 @@ body {
 
 #foto {
     text-align: center;
+    border-radius: 5%;
+    margin: 50px;
+    padding: 5px;
+    background-color: greenyellow;
 }
 .name {
 padding-bottom: 8vh;
@@ -29,4 +33,11 @@ font-family: "Roboto Mono", monospace;
 }
 #light-green{
     color: #5af78e
+}
+div {
+    border: 2px solid green;
+}
+
+ul li:nth-child(even){
+    background-color: limegreen
 }
